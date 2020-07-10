@@ -1,6 +1,6 @@
 ## Gregor Pfeifer
 
-Perhaps comming soon: [The website of my daughter](https://kohlwes.github.io)
+[Does not yet exist](https://kohlwes.github.io)
 
 [My website - this one](https://gpfeifer.github.io)
 

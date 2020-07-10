@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gregor Pfeifer
 
 Perhaps comming soon: [The website of my daughter](https://kohlwes.github.io)
 

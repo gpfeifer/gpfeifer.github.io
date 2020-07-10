@@ -6,7 +6,7 @@ Perhaps comming soon: [The website of my daughter](https://kohlwes.github.io)
 
 ## Overview
 
-You can use the [editor on GitHub](https://github.com/gpfeifer/gpfeifer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/gpfeifer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

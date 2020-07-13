@@ -1,9 +1,5 @@
 ## Gregor Pfeifer
 
-[Does not yet exist](https://kohlwes.github.io)
-
-[My website - this one](https://gpfeifer.github.io)
-
 ## Overview
 
 You can use the [editor on GitHub](https://github.com/gpfeifer/gpfeifer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

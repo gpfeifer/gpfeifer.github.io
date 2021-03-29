@@ -8,14 +8,12 @@
 
 ### Losing it
 
-I'm losing it:
-
-https://www.youtube.com/watch?v=pedgIfGqHcw
+[I'm losing it](https://www.youtube.com/watch?v=pedgIfGqHcw)
 
 Today I was able to restore a corrupt database for my daughter. 
 It seem's that the date are not lost.
 
-"Losing it" seems to be a good title for a blog to discuss e.g. this:
+[Losing it](https://www.youtube.com/watch?v=pedgIfGqHcw) seems to be a good title for a blog to discuss e.g. this:
 
 - Data
 - Control

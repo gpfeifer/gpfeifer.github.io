@@ -6,21 +6,15 @@
 
 ## 2021-03-29
 
-### Losing it
-
 [I'm losing it](https://www.youtube.com/watch?v=pedgIfGqHcw)
 
 Today I was able to restore a corrupt database for my daughter. 
-I'm happy because it seem's that the data are not lost 😉.
+I'm happy because it seem's that the data are not lost.
 
-[Losing it](https://www.youtube.com/watch?v=pedgIfGqHcw) seems to be a good title for a blog to discuss e.g. this:
+This works like a charme 😉
 
-- Data
-- Control
-- Theet
-- Democracy
-- Cancel Culture
-- Backup
+    sqlite3 broken.db ".recover" | sqlite3 new.db
+
 
 ## 2020-07-15
 
